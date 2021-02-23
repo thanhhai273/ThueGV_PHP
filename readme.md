@@ -1,5 +1,5 @@
 Cách chạy project:
-Project chạy bằng Laravel nên các bạn phải cài đặt sẵn Laravel và các phần mềm cần thiết trước
+Project chạy bằng Laravel nên phải cài đặt sẵn Laravel và các phần mềm cần thiết trước
 1. Tạo database tên homestead trên cơ sở dữ liệu phpmyadmin
 2. Copy file .env.example sang file .env
 3. Config file .env
